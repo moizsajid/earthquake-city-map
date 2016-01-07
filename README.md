@@ -1,6 +1,6 @@
 # Earthquake City Map
 
-Earthquake City Map requires the following libraries: fdjdfjk 
+Earthquake City Map requires the following libraries:
 - Processing https://processing.org/
 - Unfolding Maps http://unfoldingmaps.org/
 
